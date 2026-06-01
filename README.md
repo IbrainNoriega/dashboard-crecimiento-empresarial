@@ -1,5 +1,7 @@
-# dashboard-crecimiento-empresarial
+# Dashboard-crecimiento-empresarial
 Dashboard de análisis de crecimiento e ingresos empresariales en Power BI
+
+![Dashboard Preview](dashboard_preview.jpg)
 
 🎯 Preguntas que responde este análisis
 ¿Qué empresas generan mayores ingresos?
@@ -26,4 +28,4 @@ Gráfico de barras horizontal: Top 10 empresas por ingresos
 Gráfico de barras vertical: Industrias con mayor crecimiento
 Dispersión (Scatter plot): Correlación entre ingresos y crecimiento
 Treemap: Principales empresas por crecimiento
-![Dashboard Preview](dashboard_preview.jpg)
+
