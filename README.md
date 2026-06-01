@@ -26,3 +26,4 @@ Gráfico de barras horizontal: Top 10 empresas por ingresos
 Gráfico de barras vertical: Industrias con mayor crecimiento
 Dispersión (Scatter plot): Correlación entre ingresos y crecimiento
 Treemap: Principales empresas por crecimiento
+![Dashboard Preview](dashboard_preview.jpg)
