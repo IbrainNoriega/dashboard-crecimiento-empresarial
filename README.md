@@ -29,3 +29,13 @@ Gráfico de barras vertical: Industrias con mayor crecimiento
 Dispersión (Scatter plot): Correlación entre ingresos y crecimiento
 Treemap: Principales empresas por crecimiento
 
+🚀 Cómo usar este proyecto
+
+Descarga el archivo Proyecto_final.pbix
+Ábrelo con Power BI Desktop (gratuito)
+Explora los filtros interactivos para segmentar por industria o empresa
+
+
+👤 Autor
+Ibrain Osbaldo Blancas Noriega
+Economista | Analisis de Datos | Business Intelligence
